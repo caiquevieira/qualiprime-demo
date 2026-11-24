@@ -1,0 +1,24 @@
+# QualiPrime Distribuidora
+
+> Distribuidora de hortifruti para restaurantes, escolas, hotéis e padarias em R. Xavier Kraus, 187 — Vila Leopoldina, São Paulo/SP. Entrega em São Paulo, ABC e Alphaville, com frete grátis para restaurantes. Atendimento pelo WhatsApp (11) 98595-3116.
+
+## Dados do negócio
+
+- Endereço: R. Xavier Kraus, 187 — Vila Leopoldina, São Paulo/SP
+- Horário: {{HORARIO_RESUMO}}
+- WhatsApp: (11) 98595-3116 (https://wa.me/5511985953116)
+- Instagram: https://www.instagram.com/qualiprime.ceasa/
+
+## Produtos
+
+- Frutas, legumes e verduras (verdura nova todos os dias)
+- Cogumelos, ovos e flores comestíveis
+- Polpas de fruta congeladas
+- Produtos orientais e de empório
+- Embalagens fechadas: limão, laranja e cebola em saco de 20 kg, tomate para molho em caixa de 18 kg
+- Catálogo com 871 itens na página inicial
+
+## Páginas
+
+- [Página inicial](https://qualiprime.com.br/)
+- [Política de Privacidade](https://qualiprime.com.br/politica-de-privacidade.html)
